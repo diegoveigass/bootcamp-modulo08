@@ -7,6 +7,7 @@ serve para controlar os estados globais da aplicação</p>
 <p>As principais bibliotecas utilizadas foram:</p>
 <ul>
   <li>axios</li>
+  <li>react-hooks</li>
   <li>history</li>
   <li>immer</li>
   <li>polished</li>
